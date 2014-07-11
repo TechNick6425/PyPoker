@@ -2,6 +2,8 @@
 
 PyPoker is a single player poker game written in Python. It is based of simple five-hand poker.
 
+DISCLAIMER: I, Nicholas Gauthier, do not endorse physical gambling in ANY way. This has been put on Github purely for educational reasons. If you feel the need to gamble real currency, please stop playing the game.
+
 WARNING: This game is completely WIP. It doesn't work properly and it's impossible to win! This has been put on Github purely for educational reasons.
 
 ## Installing
